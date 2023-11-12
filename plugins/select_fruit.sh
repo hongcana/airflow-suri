@@ -1,4 +1,4 @@
-FRUIT = $1
+FRUIT=$1
 if [ $FRUIT == APPLE ]; then
     echo "Apple!"
 if [ $FRUIT == ORANGE ]; then
